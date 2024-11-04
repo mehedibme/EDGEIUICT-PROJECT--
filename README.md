@@ -8,3 +8,4 @@ The "Gold Price Prediction" project focuses on predicting the prices of gold usi
 4. Regression Model using Random Forest
 5. Model Evaluation
 # Conclusion
+The gold price prediction is defined the a practical solution for estimating gold prices based on various factors. By leveraging data collection, preprocessing, visualization, Random Forest regression modeling, and model evaluation, this project offers a comprehensive approach to addressing the price prediction task.
