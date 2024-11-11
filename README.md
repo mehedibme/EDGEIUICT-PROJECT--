@@ -1,4 +1,4 @@
-# EDGEIUICT-PROJECT-Gold Price Prediction using Machine Learning with Python
+# EDGEIUICT-210-PROJECT-Gold Price Prediction using Machine Learning with Python
 # Project overview
 The "Gold Price Prediction" project is designed to forecast gold prices using advanced machine learning techniques. By building a model that leverages a range of influencing factors, the project seeks to provide accurate gold price predictions, offering valuable insights for investors and traders. This task holds significant relevance in the financial sector, where understanding and anticipating gold price trends can aid in making strategic investment decisions.
 # Key Features
